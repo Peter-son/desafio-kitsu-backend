@@ -54,7 +54,7 @@ Projeto desenvolvido com a linguagem de programação Java orientado a objetos, 
 Após realizar o download do projeto, é necessário procurar o local onde o mesmo está (Se o projeto estiver compactado em formato zip, é indispensável extraí-lo, para que  o Visual Studio Code consiga reconhece-lo).
 
 ## 🔍 Funcionamento das consultas:
-Após executar o projeto e esperar que o mesmo complete o processo de executação, é necessário abrir na extensão do Thunder Client (na barra esquerda ou apertando o atalho 'Ctrl+shift+R'), adicionar um 'new request' (no botão azul superior esquerdo), adicionar um dos comandos de buscas (que estão listados logo abaixo) e por fim clicar no 'send', para que a consulta seja aplicada.
+Após executar o projeto e esperar que o mesmo complete o processo de executação, é necessário abrir na extensão do Thunder Client (na barra esquerda ou apertando o atalho 'Ctrl+shift+R'), adicionar um 'new request' (no botão azul superior esquerdo), adicionar um dos comandos de buscas (que estão listados logo abaixo) e por fim clicar no 'send', para que a consulta seja aplicada. Demosntração a seguir:
 ![instruções](https://user-images.githubusercontent.com/75283449/198377786-d5a069c1-ca51-4ba4-84f7-da474ffdea8c.gif)
 
 - `Para obter informações de um anime, é necessário executar o projeto e colocar o seguinte link Thunder Client:` http://localhost:8080/desafio/anime/id (onde o {id} deverá ser subistituído por um número inteiro)
