@@ -61,8 +61,7 @@ Projeto desenvolvido com a linguagem de programação Java orientado a objetos, 
 - `Para obter informações de um manga, é necessário executar o projeto e colocar o seguinte link no Thunder Client:` http://localhost:8080/desafio/manga/id (onde o {id} deverá ser subistituído por um número inteiro)
 ![mangId](https://user-images.githubusercontent.com/75283449/198038728-1a09d2d4-d226-467d-8e24-e40985a71005.png)
 
-- `Para obter os mangas mais populares, é necessário executar o projeto e colocar o seguinte link no Thunder Client:`
-![mangasAlta](https://user-images.githubusercontent.com/75283449/198038868-a3f1ba4b-05dd-4a1c-8a02-be27126c5df1.png)
+- `Para obter os mangas mais populares, é necessário executar o projeto e colocar o seguinte link no Thunder Client:` ![mangasAlta](https://user-images.githubusercontent.com/75283449/198038868-a3f1ba4b-05dd-4a1c-8a02-be27126c5df1.png)
 
 - `Para obter informações filtradas de um anime ou manda, é necessário executar o projeto e colocar o seguinte link no Thunder Client:` http://localhost:8080/desafio/anime/filtrando/escolha/atributo/valor ou http://localhost:8080/desafio/manga/filtrando/escolha/atributo/valor
 (onde {escolha} deverá ser subistituído pela palavra 'anime' ou 'manga', da mesma forma que {atributo} e {valor} correspondente ao tipo escolhido). A estrutura utilizada para retorno das informações (Classes e variáveis) é a mesma abordada para o retorno de animes, para fins de simplificação, dessa forma são recuperadas apenas parte das informações sobre 'manga'.
