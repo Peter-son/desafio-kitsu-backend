@@ -38,14 +38,12 @@ Projeto desenvolvido com a linguagem de programação Java orientado a objetos, 
 
 ## 📥 Instalar:
 - `Editor de código:` [Visual Studio Code v1.72.0](https://code.visualstudio.com/updates/v1_72);
+- `Sistema gerenciador de banco de dados:` [PostgreSQL 15](https://www.postgresql.org/download);
+
 ### 🖇️ Extensões:
 - `Spring Boot Extension Pack:` [coleção de extensões para desenvolver e implantar o aplicativo Spring Boot](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack);
 - `Extension Pack for Java:` [coleção de extensões populares que podem ajudar a escrever, testar e depurar aplicativos Java no Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack);
 - `Thunder Client:` [é uma extensão de cliente leve para construir e testar APIs Rest](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client).
-
-- `Sistema gerenciador de banco de dados:` [PostgreSQL 15](https://www.postgresql.org/download);
-- `Estrutura no banco de dados:` o nome da base de dados que deve ser cirada é 'desafioKitsu', a tabela e as colunas são geradas automaticamente pelo Hibernate, caso ainda não estiverem disponíveis. Gerando um identificador automatico 'id', registrando o momento em que as pesquisadas são feitas, seguindo o padrão internacional da ISO 8601 para representação da data e hora, sendo salvas conforme o horário em Greenwich, para saber o momento exato em que o registro foi feito, basta subtrair -3 horas de acordo com o fuso horário de Brasília. Salvando também o titulo e o tipo (anime, manga, episódio) de acordo com a pesquisa realizada.
-![banco de dados](https://user-images.githubusercontent.com/75283449/198049501-f1efd5bd-1bfd-4ad5-8139-5fd0f82b28b8.png)
 
 ## 📁 Acesso ao projeto:
 ### Para baixar o projeto, basta escolher uma das alternativas a baixo:
@@ -98,4 +96,5 @@ Exemplo de uso: http://localhost:8080/desafio/filtrando/manga/chapterCount/4
 - `Para obter o relatório dos itens mais pesquisados (salvos no banco de dados), é necessário executar o projeto e colocar o seguinte link no Thunder Client:` http://localhost:8080/desafio/itensPesquisados
 ![itensPesquisados](https://user-images.githubusercontent.com/75283449/198048130-8e834be6-9f6e-4925-b432-2fd8de98220b.png)
 
-
+- `Estrutura no banco de dados:` o nome da base de dados que deve ser cirada é 'desafioKitsu', a tabela e as colunas são geradas automaticamente pelo Hibernate, caso ainda não estiverem disponíveis. Gerando um identificador automatico 'id', registrando o momento em que as pesquisadas são feitas, seguindo o padrão internacional da ISO 8601 para representação da data e hora, sendo salvas conforme o horário em Greenwich, para saber o momento exato em que o registro foi feito, basta subtrair -3 horas de acordo com o fuso horário de Brasília. Salvando também o titulo e o tipo (anime, manga, episódio) de acordo com a pesquisa realizada.
+![banco de dados](https://user-images.githubusercontent.com/75283449/198049501-f1efd5bd-1bfd-4ad5-8139-5fd0f82b28b8.png)
