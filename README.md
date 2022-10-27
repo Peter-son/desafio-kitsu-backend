@@ -1,7 +1,7 @@
 # Desafio Kitsu - Firedev IT
 
 ## 🖥️⚙️ Tecnologias/Recursos: 
-![JDK v17.0.1][(https://img.shields.io/badge/Java-v17.0.1-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAAFUklEQVR4nO2ZXWwUVRSAvzOztWWLRYoxAWklGmOUGCBp3a2g0ijBarSt4SeaYoEomJgYjbFGCb8mxKAmSnwwCG1XmmiI0grx9wVBoNNVQnwyMYQoNpgYftTSFunuHB/asst2d7uzuzM0uN/T3jPnnnPu2Tv33HsHChQoUKBAgQL/V8Qtw92l9a+KSqWodAQGO7vd8pMrhluGz/dfeheoUtGj3f6GcE9J/X1u+coF12YAgDXpiZmIfQy4CVCFLcGBrs0C6qZfJ7g2AwCCg3t71WA5EAFEYKPlb9jopk+nuDoDRrH89ZtBNow0o0AgONB1zAvf4+HqDBhFTGM7MDTSNFFe9MJvJniSgEBf51ng78sCkVov/GaCJwnoub5xGjAlJtHJXvjNBJ8nXqL2SyBFcZK++MfdJQ2zDIMWhcUCWwMDXbs8iQsPEmD5G59X9PV4mSqHRn/3lDbOUdUDClMRPg70ezd4cPkV6J7U+ALo+yRUGzEIxVr6HjAVQKLRdW7GkwzXEmBNrr9LRN8e+0T2Bfu7vgVQEFVqLj8xSwbdiicVriVAbWkBihLE4Yg/2jTaEFCJqw62PfSWssmThXkU15wJLEoQnfCZ0UcXnNnXlyD/NK5TU4//p7Y9LDXdiisRNxMw7Yq2sqGqb/+ZMYqmrAdOxAT6dIU/stqtuBJx7xUQTsW3o0QOJdML9HWejRoyX+D4qEzQ59yKKxH33jebffFN0y4qTaU6/0Lnn4ZtLiF2SrzDtbgScC0BPjHeAWJT3tQn0+lXX/zsJPDXSPOcW3El4loCqgb2/oFKI3AeQJWXf5z0WGUq/XBpw1zgBgBFv3ArrkScH4e3f1nMlPI3UJoQjmOylqZgbyr1w/7HZ5gYrwk8imAF+7ueStSxyuvKuFh8GLgbOOfT6Lyqwf2nxlpLw84jt1DkW4jqXOBGRH4manzC6uqT6bo5T0DI2obyCgA+KtINPhP2sNSs9A/tB+qAXlVdUjP4eY9jQzuPlmOas0HXISwekQ4grKU52JGqm/NXQGkaXylzKkuHWoB/FX12cKDozqwGD/DMvedYFfie3wKPoHwzIvWj7KItXJ2qm/MZ0G6dBqaPtL7Cx5pcZ4Ejdh4tx+ebh+oiDK2mOfjg2BjD94N9MCaQPawMLE9mLovToO4GaRlp1BHhd9ot52Zywh79695M+tgoPoYdf6zQhaksOU/AP+c3UDYVkCZghuP++eE0KrvxT05+wVriG2LgCklxKkOeXIp6Tpt1O8IvMYF8zcpAXTLV7C9EHJZDb9GH4/5bG9FtqTSzT8Dw4IfLock9E2fwgMiyuN/raQ4cSKWafQLyXA7T0hquwLAPoXoQwziAbR9kVc2vSXVDVi3KAgBENtEc2JrOdH62whF20GHNzIutRFrDFRi6A5iFSDOq7YgcSalvy/DCODz4zeOZz+FS1KtyaI8VCR8lVQ1Ztag+kOngIZcEXJ1ymL782bIRg4wHf20RsmoJ9VylD68haxvtltL6w61XJwCgrTvlbi8d+fkwoqwA4LropbzYA2crP8Cqmu+ycZOvC5Hhq6wIO2gNV+RszenKnwN5+jR2uSLUYdincq8GDlb+HMlPAtytCOlX/hwZ/zA0kff8HdZMIvIh6BzQ3fjL1rNstqN1aPw1ILbnnz6hBg/QFOzFljXAdJAW+i9scWpi/AR4uefPFdEVTrs4qwJu7vmzIVYtsiaDRXAiXIGlIqFaZFEpxk/AxLgCGw9XK8U1TRbX4t3r8EnI82rQfuQ2MD8AHoqTnmZl8OZczGazESqbMOtAHnaH1+a1eIECBQoUKFCgQAb8B8djxkmdWAzoAAAAAElFTkSuQmCC&link=https://www.oracle.com/java/technologies/javase/17-0-1-relnotes.html)]
+![JDK v17.0.1](https://img.shields.io/badge/Java-v17.0.1-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAAFUklEQVR4nO2ZXWwUVRSAvzOztWWLRYoxAWklGmOUGCBp3a2g0ijBarSt4SeaYoEomJgYjbFGCb8mxKAmSnwwCG1XmmiI0grx9wVBoNNVQnwyMYQoNpgYftTSFunuHB/asst2d7uzuzM0uN/T3jPnnnPu2Tv33HsHChQoUKBAgQL/V8Qtw92l9a+KSqWodAQGO7vd8pMrhluGz/dfeheoUtGj3f6GcE9J/X1u+coF12YAgDXpiZmIfQy4CVCFLcGBrs0C6qZfJ7g2AwCCg3t71WA5EAFEYKPlb9jopk+nuDoDRrH89ZtBNow0o0AgONB1zAvf4+HqDBhFTGM7MDTSNFFe9MJvJniSgEBf51ng78sCkVov/GaCJwnoub5xGjAlJtHJXvjNBJ8nXqL2SyBFcZK++MfdJQ2zDIMWhcUCWwMDXbs8iQsPEmD5G59X9PV4mSqHRn/3lDbOUdUDClMRPg70ezd4cPkV6J7U+ALo+yRUGzEIxVr6HjAVQKLRdW7GkwzXEmBNrr9LRN8e+0T2Bfu7vgVQEFVqLj8xSwbdiicVriVAbWkBihLE4Yg/2jTaEFCJqw62PfSWssmThXkU15wJLEoQnfCZ0UcXnNnXlyD/NK5TU4//p7Y9LDXdiisRNxMw7Yq2sqGqb/+ZMYqmrAdOxAT6dIU/stqtuBJx7xUQTsW3o0QOJdML9HWejRoyX+D4qEzQ59yKKxH33jebffFN0y4qTaU6/0Lnn4ZtLiF2SrzDtbgScC0BPjHeAWJT3tQn0+lXX/zsJPDXSPOcW3El4loCqgb2/oFKI3AeQJWXf5z0WGUq/XBpw1zgBgBFv3ArrkScH4e3f1nMlPI3UJoQjmOylqZgbyr1w/7HZ5gYrwk8imAF+7ueStSxyuvKuFh8GLgbOOfT6Lyqwf2nxlpLw84jt1DkW4jqXOBGRH4manzC6uqT6bo5T0DI2obyCgA+KtINPhP2sNSs9A/tB+qAXlVdUjP4eY9jQzuPlmOas0HXISwekQ4grKU52JGqm/NXQGkaXylzKkuHWoB/FX12cKDozqwGD/DMvedYFfie3wKPoHwzIvWj7KItXJ2qm/MZ0G6dBqaPtL7Cx5pcZ4Ejdh4tx+ebh+oiDK2mOfjg2BjD94N9MCaQPawMLE9mLovToO4GaRlp1BHhd9ot52Zywh79695M+tgoPoYdf6zQhaksOU/AP+c3UDYVkCZghuP++eE0KrvxT05+wVriG2LgCklxKkOeXIp6Tpt1O8IvMYF8zcpAXTLV7C9EHJZDb9GH4/5bG9FtqTSzT8Dw4IfLock9E2fwgMiyuN/raQ4cSKWafQLyXA7T0hquwLAPoXoQwziAbR9kVc2vSXVDVi3KAgBENtEc2JrOdH62whF20GHNzIutRFrDFRi6A5iFSDOq7YgcSalvy/DCODz4zeOZz+FS1KtyaI8VCR8lVQ1Ztag+kOngIZcEXJ1ymL782bIRg4wHf20RsmoJ9VylD68haxvtltL6w61XJwCgrTvlbi8d+fkwoqwA4LropbzYA2crP8Cqmu+ycZOvC5Hhq6wIO2gNV+RszenKnwN5+jR2uSLUYdincq8GDlb+HMlPAtytCOlX/hwZ/zA0kff8HdZMIvIh6BzQ3fjL1rNstqN1aPw1ILbnnz6hBg/QFOzFljXAdJAW+i9scWpi/AR4uefPFdEVTrs4qwJu7vmzIVYtsiaDRXAiXIGlIqFaZFEpxk/AxLgCGw9XK8U1TRbX4t3r8EnI82rQfuQ2MD8AHoqTnmZl8OZczGazESqbMOtAHnaH1+a1eIECBQoUKFCgQAb8B8djxkmdWAzoAAAAAElFTkSuQmCC&link=https://www.oracle.com/java/technologies/javase/17-0-1-relnotes.html)
 ![Spring Boot v2.6.12](https://img.shields.io/badge/Spring%20boot-v2.6.12-green?style=flat&logo=springboot?link=https://spring.io/blog/2022/09/22/spring-boot-2-6-12-available-now&link=https://spring.io/blog/2022/09/22/spring-boot-2-6-12-available-now)
 ![PostgreSQL 15](https://img.shields.io/badge/PostgreSQL-15-9cf?logo=PostgreSQL?link=https://www.postgresql.org/docs/current/release-15.html&link=https://www.postgresql.org/docs/current/release-15.html)
 ![Lombok v1.18.24](https://img.shields.io/badge/Lombok-v1.18.24-red?link=https://projectlombok.org/download&link=https://projectlombok.org/download)
@@ -21,21 +21,9 @@ Projeto desenvolvido com a linguagem de programação Java orientado a objetos, 
 - `Descrição de um episodio de um anime:` busca e retorno de informações de um episodio específico;
 - `Estrutura no banco de dados:` salva as buscas do usuário, bem como gera um relatório de itens mais pesquisados.
 
-
 # 🎯 Inicialização do projeto:
 - `Spring initializr:` [site usado para inicializar o projeto com as respectivas dependências](https://start.spring.io/);
 ![spring initializr](https://user-images.githubusercontent.com/75283449/198111889-eda0bff1-652c-407a-b36e-c31265383841.png)
-
-# 🛠️ Instruções necessárias para abrir e executar o projeto:
-
-## 📥 Instalar:
-- `Editor de código:` [Visual Studio Code v1.72.0](https://code.visualstudio.com/updates/v1_72);
-- `Sistema gerenciador de banco de dados:` [PostgreSQL 15](https://www.postgresql.org/download).
-
-## 📁 Acesso ao projeto:
-- `Git clone, copie o código a seguir:` https://github.com/Peter-son/desafio-kitsu-backend.git
-- `Abrir com o GitHub para Desktop:` x-github-client://openRepo/https://github.com/Peter-son/desafio-kitsu-backend
-- `Baixar a pasta do projeto compactado:` https://github.com/Peter-son/desafio-kitsu-backend/archive/refs/heads/main.zip
 
 ## 📑 Dependências:
 - `spring-boot-starter-parent 2.6.12:` fornece configurações iniciais e uma arquitetura com dependências essenciais para inicialização do Spring Boot, juntamente com um gerenciamento de plugins para aplicativos construídos com Maven;
@@ -46,12 +34,30 @@ Projeto desenvolvido com a linguagem de programação Java orientado a objetos, 
 - `postgresql:` o driver do PostgreSQL JDBC4;
 - `spring-boot-starter-data-jpa:` para usar Spring Data JPA com Hibernat.
 
-## 🖇️ Extensões:
+# 🛠️ Instruções necessárias para abrir e executar o projeto:
+
+## 📥 Instalar:
+- `Editor de código:` [Visual Studio Code v1.72.0](https://code.visualstudio.com/updates/v1_72);
+### 🖇️ Extensões:
 - `Spring Boot Extension Pack:` [coleção de extensões para desenvolver e implantar o aplicativo Spring Boot](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack);
 - `Extension Pack for Java:` [coleção de extensões populares que podem ajudar a escrever, testar e depurar aplicativos Java no Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack);
 - `Thunder Client:` [é uma extensão de cliente leve para construir e testar APIs Rest](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client).
 
+- `Sistema gerenciador de banco de dados:` [PostgreSQL 15](https://www.postgresql.org/download);
+- `Estrutura no banco de dados:` o nome da base de dados que deve ser cirada é 'desafioKitsu', a tabela e as colunas são geradas automaticamente pelo Hibernate, caso ainda não estiverem disponíveis. Gerando um identificador automatico 'id', registrando o momento em que as pesquisadas são feitas, seguindo o padrão internacional da ISO 8601 para representação da data e hora, sendo salvas conforme o horário em Greenwich, para saber o momento exato em que o registro foi feito, basta subtrair -3 horas de acordo com o fuso horário de Brasília. Salvando também o titulo e o tipo (anime, manga, episódio) de acordo com a pesquisa realizada.
+![banco de dados](https://user-images.githubusercontent.com/75283449/198049501-f1efd5bd-1bfd-4ad5-8139-5fd0f82b28b8.png)
+
+## 📁 Acesso ao projeto:
+### Para baixar o projeto, basta escolher uma das alternativas a baixo:
+- `Git clone, copie o código a seguir:` https://github.com/Peter-son/desafio-kitsu-backend.git
+- `Abrir com o GitHub para Desktop:` x-github-client://openRepo/https://github.com/Peter-son/desafio-kitsu-backend
+- `Baixar a pasta do projeto compactado:` https://github.com/Peter-son/desafio-kitsu-backend/archive/refs/heads/main.zip
+
+Após realizar o download do projeto, é necessário procurar o local onde o mesmo está (Se o projeto estiver compactado em formato zip, é indispensável extraí-lo, para que  o Visual Studio Code consiga reconhece-lo).
+
 ## 🔍 Funcionamento das consultas:
+Após executar o projeto e esperar que o mesmo complete o processo de executação, é necessário abrir na extensão do Thunder Client (na barra esquerda ou apertando o atalho 'Ctrl+shift+R'), adicionar um 'new request' (no botão azul superior esquerdo), adicionar um dos comandos de buscas (que estão listados logo abaixo) e por fim clicar no 'send', para que a consulta seja aplicada.
+
 - `Para obter informações de um anime, é necessário executar o projeto e colocar o seguinte link Thunder Client:` http://localhost:8080/desafio/anime/id (onde o {id} deverá ser subistituído por um número inteiro)
 ![animeId](https://user-images.githubusercontent.com/75283449/197931017-e4cce527-d2cd-48fc-b189-0c192f84bad1.png)
 
@@ -91,5 +97,4 @@ Exemplo de uso: http://localhost:8080/desafio/filtrando/manga/chapterCount/4
 - `Para obter o relatório dos itens mais pesquisados (salvos no banco de dados), é necessário executar o projeto e colocar o seguinte link no Thunder Client:` http://localhost:8080/desafio/itensPesquisados
 ![itensPesquisados](https://user-images.githubusercontent.com/75283449/198048130-8e834be6-9f6e-4925-b432-2fd8de98220b.png)
 
-- `Estrutura no banco de dados:` o nome da base de dados que deve ser cirada é 'desafioKitsu', a tabela e as colunas são geradas automaticamente pelo Hibernate, caso ainda não estiverem disponíveis. Gerando um identificador automatico 'id', registrando o momento em que as pesquisadas são feitas, seguindo o padrão internacional da ISO 8601 para representação da data e hora, sendo salvas conforme o horário em Greenwich, para saber o momento exato em que o registro foi feito, basta subtrair -3 horas de acordo com o fuso horário de Brasília. Salvando também o titulo e o tipo (anime, manga, episódio) de acordo com a pesquisa realizada.
-![banco de dados](https://user-images.githubusercontent.com/75283449/198049501-f1efd5bd-1bfd-4ad5-8139-5fd0f82b28b8.png)
+
