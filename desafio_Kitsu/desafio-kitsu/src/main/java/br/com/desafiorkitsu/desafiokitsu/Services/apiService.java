@@ -70,11 +70,6 @@ public class apiService {
 
     // Método que retorna um anime ou manga, conforme o filtro estipulado para cada caso
        public RootListD filtraAnimeManga(String escolha, String atributo, String valor) {
-        /*if(escolha.equals("anime")){
-            Mono<RootListD> monoA;
-        }else{
-            Mono<Root_MangasListD> monoM;
-        }*/
         Mono<RootListD> monoAM = this.webClient // Representação do fluxo que realiza solicitações HTTP
                 .method(HttpMethod.GET) // Determina uma solicitação para o arquivo HttpMethod
                 .uri("/{escolha}?filter[{atributo}]={valor}", escolha, atributo, valor) // Passa a url adicional com as
